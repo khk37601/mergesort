@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="mergessort",
+    name="mergesort",
     version="0.0.1",
     description="merge sort module.",
     author="khk37601",
